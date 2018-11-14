@@ -1,0 +1,28 @@
+hora de empilhar:
+UPXq1a1p1P1p11q11#q11a11p11p11p111q11$AUa11XQU
+
+hora de limpar antes de avançar o caractere:
+UUPUPUPXq1a1p1PUPUUQUU#q11a11p11p11p111q11$AUa11XQUU
+                     ^
+
+hora de avançar o caractere:
+ERRADO UUPUPUPXq1a1p1PUPUUQUU#q11a11p11p11p111q11$AUa11XQUU
+CERTO UUPUPUPXq1a1p1p1p11q11#q11a11p11p11p111q11$AUa11XQUU
+
+setada:
+UPXq1a1p1p1p11q11#q11a11p11p11p111q11$AUa11XQU
+
+q36 da total:
+UUPUPUPXQ1a1p1p1p11q11#QUUa11p11p11p111q11$a1AUUXN22
+
+começa a marcar o a desempilhar:
+UUPUPUPXQ1A1p1p1p11q11#QUUAUUp11p11p111q11$a1B22XN22
+
+q17 da procura:
+UPXQUAUp1p1p11q11#QU1AU1p11p11p111q11$B2a11XN2
+
+q46 " ":
+2HXQUAUPUp1p11q11#QU1AU1p11p11p111q11$B2a11XN2
+
+"Limpa tudo": (devia começar pela direita, mas whatever)
+2HXNUAUPUp1p11q11#QU1AU1p11p11p111q11$B2a11XQ2
