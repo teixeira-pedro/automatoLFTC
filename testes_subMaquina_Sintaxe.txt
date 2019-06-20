@@ -1,0 +1,22 @@
+q1q1$a1 --> falha (OK)
+q1aq1$a1 --> falha (OK)
+q1a1a1a1q1$a1 --> falha (OK)
+q1a1a1a1a1q1$a111a1 --> OK
+q1111a1111a1111a1111a1111q11111$a111a1111 --> OK
+q1111a1111a1111a1111a1111q11111#q1a1a1a1a1q1$a111a1111 --> OK
+
+q1a1eeeq1$a1 --> ok
+q1ea1eeq1$a1 --> ok
+q1eea1eq1$a1 --> ok
+q1eeea1q1$a1 --> ok
+q1a1a1eeq1$a1 --> ok
+q1a1ea1eq1$a1 --> ok
+q1a1eea1q1$a1 --> ok
+q1ea1ea1q1$a1 --> ok
+q1eea1a1q1$a1 --> ok
+q1a1a1a1eq1$a1 --> ok
+q1a1a1ea1q1$a1 --> ok
+q1a1ea1a1q1$a1 --> ok
+q1ea1a1a1q1$a1 -- >ok
+q1111a1111a1111a1111a1111q11111#q1111a1111a1111a1111a1111q11111#q1a1a1a1a1q1#q1a1eeeq1#q1ea1a1a1q1#q1a1ea1a1q1#q1a1a1ea1q1#q1a1a1a1eq1#q1eea1a1q1#q1ea1ea1q1#q1a1eea1q1#q1a1ea1eq1#q1a1a1eeq1#q1a1a1eeq1#q1eeea1q1#q1eea1eq1#q1ea1eeq1#q1a1eeeq1#q1eeeeq1$a111a1111 --> OK
+SINTAXE.jff TESTADO
